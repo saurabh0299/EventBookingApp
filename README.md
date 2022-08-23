@@ -1,10 +1,9 @@
 # EvenBookingApp
  
  Event Booking App Allows user to check for various Event places and can book them
+ 
  ![image](https://user-images.githubusercontent.com/80140167/186174299-11d36d3f-af2d-450a-b965-172dea1adf28.png)
-
 ![image](https://user-images.githubusercontent.com/80140167/186174327-2928931c-2ce0-477b-a272-f7e3d4879ce4.png)
-
 ![image](https://user-images.githubusercontent.com/80140167/186174361-c597fd5c-538d-4e0c-8f31-2198e10e8160.png)
 ![image](https://user-images.githubusercontent.com/80140167/186174387-8031ef6e-4285-43b8-b9b4-82e7b582cc6c.png)
 ![image](https://user-images.githubusercontent.com/80140167/186174420-207f48bf-05ca-4aea-8820-747ebd1da17b.png)
