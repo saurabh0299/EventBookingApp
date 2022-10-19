@@ -1,4 +1,4 @@
-# EvenBookingApp
+# Event Booking App
  
  Event Booking App Allows user to check for various Event places and can book them
  
